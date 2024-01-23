@@ -1,9 +1,9 @@
-# Logo Maker 10
+# Note Taker ADVANCED
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Create a logo for your brand with unique color, shape, and text!
+Write and save notes using express.
 
 # Table of Contents 
 * [Installation](##-Installation)
@@ -15,27 +15,26 @@ Create a logo for your brand with unique color, shape, and text!
   
 ## Installation
 Node:
--Inquirer
+-express
 -fs
--Jest
+-uuid
 
 ## Usage
-Video Demo:
-https://app.screencastify.com/v3/watch/1j4NRAyaTuEyuDfVKqha
+Press get started and then proceed to write and save notes.
 
-![Alt text](https://github.com/kalleepar/NewLogoMaker10/blob/main/images/logomakersample1.jpg)
-![Alt text](https://github.com/kalleepar/NewLogoMaker10/blob/main/images/logomakersample2.jpg)
-![Alt text](https://github.com/kalleepar/NewLogoMaker10/blob/main/images/logomakersample3.jpg)
+![Alt text](https://github.com/kalleepar/NoteTakerAdvanced/blob/main/samples/NoteTakerAdvancedSample0.jpg)
+![Alt text](https://github.com/kalleepar/NoteTakerAdvanced/blob/main/samples/NoteTakerAdvancedSample1.jpg)
+![Alt text](https://github.com/kalleepar/NoteTakerAdvanced/blob/main/samples/NoteTakerAdvancedSample2.jpg)
 
 ## License 
 MIT
 
 ## Contributing 
 Kalleepar at:
-https://github.com/kalleepar/NewLogoMaker10
+https://github.com/kalleepar/NoteTakerAdvanced
 
 ## Tests
-.lib/shapes.test.js
+
 
 ## Contact Information 
 * GitHub Username: Kalleepar
